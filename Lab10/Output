@@ -1,0 +1,21 @@
+Enter the number of cities (max 10): 4
+Enter the cost matrix (use 0 if no path):
+Cost from city 1 to city 1: 0
+Cost from city 1 to city 2: 10
+Cost from city 1 to city 3: 15
+Cost from city 1 to city 4: 20
+Cost from city 2 to city 1: 10
+Cost from city 2 to city 2: 0
+Cost from city 2 to city 3: 35
+Cost from city 2 to city 4: 25
+Cost from city 3 to city 1: 15
+Cost from city 3 to city 2: 35
+Cost from city 3 to city 3: 0
+Cost from city 3 to city 4: 30
+Cost from city 4 to city 1: 20
+Cost from city 4 to city 2: 25
+Cost from city 4 to city 3: 30
+Cost from city 4 to city 4: 0
+
+Shortest Path: 1 2 4 3 1
+Minimum Cost: 80
