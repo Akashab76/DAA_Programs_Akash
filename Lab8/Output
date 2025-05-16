@@ -1,0 +1,23 @@
+Enter the adjacency matrix for the graph (use -1 for INF):
+Enter distance from vertex 0 to vertex 0: 0
+Enter distance from vertex 0 to vertex 1: 5
+Enter distance from vertex 0 to vertex 2: -1
+Enter distance from vertex 0 to vertex 3: 10
+Enter distance from vertex 1 to vertex 0: -1
+Enter distance from vertex 1 to vertex 1: 0
+Enter distance from vertex 1 to vertex 2: 3
+Enter distance from vertex 1 to vertex 3: -1
+Enter distance from vertex 2 to vertex 0: -1
+Enter distance from vertex 2 to vertex 1: -1
+Enter distance from vertex 2 to vertex 2: 0
+Enter distance from vertex 2 to vertex 3: 1
+Enter distance from vertex 3 to vertex 0: -1
+Enter distance from vertex 3 to vertex 1: -1
+Enter distance from vertex 3 to vertex 2: -1
+Enter distance from vertex 3 to vertex 3: 0
+
+Following matrix shows the shortest distances between all pairs of vertices:
+0	5	8	7	
+8	0	3	4	
+7	8	0	1	
+8	8	3	0	
